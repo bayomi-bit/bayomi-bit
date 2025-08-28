@@ -24,7 +24,7 @@ An e-commerce app with login/signup, product browsing, wishlist, and cart manage
 **Tech Stack:** Flutter, Cubit (BLoC), Clean Architecture, REST API  
 
 
-### ✅ [To-Do App](https://github.com/bayomi-bit/todo_app)
+### ✅ [To-Do App](https://github.com/bayomi-bit/ToDo-App)
 A simple and efficient task management app to organize daily activities.  
 **Tech Stack:**  
 Flutter, Cubit (BLoC), Local Storage (Sqllite), Clean Architecture
